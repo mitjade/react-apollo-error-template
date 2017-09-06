@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { gql, graphql, withApollo } from 'react-apollo';
+import { withApollo } from 'react-apollo';
 import { withRouter } from 'react-router-dom'
 
 class Logout extends Component {
